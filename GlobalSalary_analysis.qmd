@@ -1,0 +1,24 @@
+---
+title: "Global Salary Ananlysis"
+subtitle: "DATA 607: week 1 assignment Examplar"
+author: "Osama Siddiqui"
+format: html
+editor: visual
+---
+
+# Global Salary Data Analysis
+
+### Approach
+
+In this Assignment, I selected a dataset form Kaggle that contains information about the Global Salary data. The dataset contains Country, continent and wage span(monthly) amd the Average, median, Highest and Lowest salaries.
+
+My plan for this assigment is to load the data into R.
+
+Data source:\
+<https://github.com/Osama-Siddiqui/Salary-Data-DATA607/blob/main/salary_data.csv>
+
+*Global Salary Data*. (n.d.). Www.Kaggle.Com. Retrieved September 19, 2026, from https://www.kaggle.com/datasets/zedataweaver/global-salary-data
+
+### Research Question:
+
+How many countries are included in this dataset.
